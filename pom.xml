@@ -6,7 +6,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>jenkins-demo</name>
 	<description>jenkins-demo</description>
-	<!-- -->
+	<!-- Hello world ! -->
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
